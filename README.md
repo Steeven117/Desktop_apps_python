@@ -1,2 +1,2 @@
 # Desktop_apps_python
-aplicaciones de escritorio usando la librería Tkinter
+aplicaciones de escritorio usando la librería Tkinter de pyhton
