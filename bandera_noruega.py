@@ -31,8 +31,8 @@ ventana_principal.config(bg="white")
 
 
 frame_operaciones = Frame(ventana_principal)
-frame_operaciones.config(bg="red", width=500, height=125)
-frame_operaciones.place(x=0, y=0)
+frame_operaciones.config(bg="red", width=480, height=180)
+frame_operaciones.place(x=10, y=10)
 
 frame_mitad = Frame(ventana_principal)
 frame_mitad.config(bg="blue", width=500, height=125)
